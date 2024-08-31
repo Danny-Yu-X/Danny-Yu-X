@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Danny-Yu-X
+- 👋 Hi, I’m Danny Yu | @Danny-Yu-X
+- 🎓I am a second-year college student majoring in Computer Science at the University of California, Davis
 - 👀 I’m interested in programming and software development!
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on software projects!
