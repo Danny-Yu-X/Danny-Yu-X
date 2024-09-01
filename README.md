@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python and C/C++ and building projects (take a look at my repositories)!
 - 💞️ I’m looking to collaborate on software projects!
 - 📫 How to reach me: dannyyu3512@gmail.com | dxyu@ucdavis.edu | 530-383-3602 
-- ⚡ Fun fact: I like drinking boba!
+- ⚡ Fun fact: I like drinking boba and going to the gym!
 
 <!---
 Danny-Yu-X/Danny-Yu-X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
