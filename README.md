@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Danny Yu | @Danny-Yu-X
-- 🎓I am a third-year college student majoring in Computer Science and minoring in Statistics at the University of California, Davis.
+- 👋 Hello, I’m Danny Yu | @Danny-Yu-X
+- 🎓I am a 3rd year undergraduate college student majoring in Computer Science and minoring in Statistics at the University of California, Davis (UC Davis)
 - 👨‍💻 I am looking for internships to work with a collaborative team on software design and development!
-- 👀 I’m interested in software engineering and technology!
-- 🌱 I’m currently building full-stack web applications and am open to learn more in tech!
-- 📫 How to reach me: @dannyyu3512@gmail.com || @dxyu@ucdavis.edu
+- 🌱 I’m currently building full-stack web applications and collaborating with several engineers on AI/ML projects!
+- 📫 How to reach me: @dannyyu3512@gmail.com | @dxyu@ucdavis.edu | 530-383-3602
 
 <!---
 Danny-Yu-X/Danny-Yu-X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
