@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Danny Yu | @Danny-Yu-X
 - 🎓I am a 3rd year undergraduate college student majoring in Computer Science and minoring in Statistics at the University of California, Davis (UC Davis)
 - 👨‍💻 I am looking for internships to work with a collaborative team on software development!
-- 🌱 I’m currently building full-stack web applications and collaborating with several engineers on AI/ML projects!
+- 🌱 I’m currently building full-stack web applications and collaborating with several engineers on AI/ML projects! I also love researching modern technologies and new software in the dev community!
 - 📫 How to reach me: @dannyyu3512@gmail.com | @dxyu@ucdavis.edu
 
 <!---
