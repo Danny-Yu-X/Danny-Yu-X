@@ -1,7 +1,7 @@
 - Hello, I’m Danny Yu | @Danny-Yu-X
 - I am a 4th-year undergraduate college student majoring in Computer Science and minoring in Statistics at the University of California, Davis (UC Davis).
 - I currently work as a Computing Intern at Lawrence Livermore National Laboratory.
-- I like to build web applications and collaborate with several engineers on AI/ML projects! I also love researching modern technologies and new software in the dev community!
+- I like to build web applications and collaborate with several engineers on AI/ML projects. I also love researching modern technologies and learning new software in the dev community.
 - How to reach me: [My LinkedIn](https://www.linkedin.com/in/danny-yu-/) | @dannyyu3512@gmail.com
 
 <!---
